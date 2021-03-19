@@ -10,7 +10,12 @@ Dapper, Stack overflow ekibi tarafından LightWeight(Arka tarafta herhangi bir m
 Homework:
 Selam Arkadaşlar, Ödeviniz aşağıdadır. Dapper üzerinde aşağıdaki işlemleri içeren bir proje istiyorum.Tek bir proje olabilir Her Madde bir method olacak. Generic bir yapı istemiyorum. Direk method üzerinde Controller'da using ile kullanabilirsiniz.
 
-Controller : DapperSample Action : DapperInsert Action : DapperUpdate Action : DapperSpInsert gibi
+Controller : 
+DapperSample Action : 
+DapperInsert Action : 
+DapperUpdate Action : 
+DapperSpInsert gibi
+
 
 Direk method üzerinde ( kod bloğunda ) açıklama yapmanızı istiyorum. Açıklamanızın uzunluğu size kalmış.
 
