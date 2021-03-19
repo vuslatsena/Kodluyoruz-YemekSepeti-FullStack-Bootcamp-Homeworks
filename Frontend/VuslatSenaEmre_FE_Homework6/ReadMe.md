@@ -1,0 +1,1 @@
+VanillaJS kullanılarak basit bir todo app uygulaması gerçekleştirdim.
