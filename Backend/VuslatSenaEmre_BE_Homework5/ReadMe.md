@@ -1,8 +1,10 @@
 Week5-DAPPER
-DAPPER NEDİR?
+
+# DAPPER NEDİR?
 Bir Micro ORM Olan Dapper’ı diğer ORM’lerden ayıran en büyük özelliği Ado.Net hızına yakın bir hızda çalışmasıdır.
 Dapper, Stack overflow ekibi tarafından LightWeight(Arka tarafta herhangi bir mapping işlemi veya konfigürasyonu yapmaz) olarak geliştirilmiş Github ta open source yayınlanan bir ORM( Object Relationship Mapper) aracıdır.
 Çoğu veritabanına desteği vardır.(SQL Server,MySQL..v.b).
+
 
 
 Homework:
