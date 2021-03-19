@@ -1,0 +1,1 @@
+I implemented a simple todo application using Vanilla JS.s
